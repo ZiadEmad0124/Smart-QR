@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <group>
+        <path
+            android:fillColor="@color/secondary"
+            android:pathData="M50.036,9.526 L8.916,23.682c-3.298,1.135 -3.665,5.651 -0.595,7.304l15.414,8.3a4,4 0,0 1,1.625 1.626l8.3,15.413c1.653,3.07 6.169,2.703 7.304,-0.594l14.156,-41.12c1.085,-3.152 -1.933,-6.17 -5.084,-5.085Z"
+            tools:ignore="VectorRaster" />
+        <path
+            android:fillColor="@color/primary"
+            android:fillType="evenOdd"
+            android:pathData="M53.86,14.176c0.723,-2.1 -1.29,-4.113 -3.39,-3.39L9.35,24.943c-2.199,0.756 -2.444,3.767 -0.397,4.869l15.414,8.3a5.333,5.333 0,0 1,2.167 2.167l8.3,15.414c1.102,2.047 4.113,1.802 4.87,-0.396L53.86,14.176ZM49.602,8.265c4.201,-1.447 8.225,2.577 6.78,6.779l-14.157,41.12c-1.514,4.396 -7.535,4.886 -9.739,0.793l-8.3,-15.414a2.667,2.667 0,0 0,-1.084 -1.083L7.69,32.16c-4.094,-2.204 -3.604,-8.225 0.792,-9.739L49.602,8.265Z"
+            tools:ignore="VectorRaster" />
+        <path
+            android:fillColor="@color/primary"
+            android:fillType="evenOdd"
+            android:pathData="M39.876,24.77c0.52,0.52 0.52,1.365 0,1.886l-7.542,7.542a1.333,1.333 0,1 1,-1.886 -1.886l7.542,-7.542c0.521,-0.52 1.365,-0.52 1.886,0Z"
+            tools:ignore="VectorRaster" />
+    </group>
+</vector>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Smart QR</string>
+    <string name="generate_qr_code">اصنع الكود</string>
+    <string name="scan_qr_code">امسح الكود</string>
+    <string name="scan_from_image">امسح صورة</string>
+    <string name="type">اكتب هنا…</string>
+    <string name="download">نزل</string>
+    <string name="share">شارك</string>
+    <string name="delete">امسح</string>
+    <string name="go">اذهب</string>
+    <string name="copy">انسخ</string>
+</resources>

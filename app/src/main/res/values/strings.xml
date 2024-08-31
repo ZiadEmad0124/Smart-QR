@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Smart QR</string>
+    <string name="generate_qr_code">Generate Qr Code</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="scan_from_image">Scan From Image</string>
+    <string name="type">Type Here…</string>
+    <string name="download">Download</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="go">Go</string>
+    <string name="copy">Copy</string>
+</resources>
